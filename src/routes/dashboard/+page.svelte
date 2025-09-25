@@ -81,7 +81,9 @@
 			<div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
 				<div class="flex h-16 items-center justify-between">
 					<div class="flex items-center">
-						<a href="/" class="text-xl font-bold text-black">GEO POC</a>
+						<a href="/" class="text-xl font-bold text-black">
+							<img src="/images/GEON_Hitam.png" alt="GEON POC Logo" class="h-8 w-auto" />
+						</a>
 					</div>
 					<div class="flex items-center space-x-4">
 						<a href="/" class="text-gray-600 transition-colors duration-200 hover:text-light-blue">

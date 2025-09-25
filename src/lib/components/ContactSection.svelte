@@ -1,6 +1,6 @@
 <script lang="ts">
 	const contactInfo = {
-		email: 'radinaldewantara@gmail.com',
+		email: 'info@geonpoc.com',
 		phone: '(+62) 896 713 133 29',
 		address: '123 Innovation Drive, Tech City, TC 12345'
 	};
@@ -128,7 +128,7 @@
 					we can help scale your AI search optimization efforts.
 				</p>
 				<a
-					href="mailto:radinaldewantara@gmail.com"
+					href="mailto:{contactInfo.email}"
 					class="inline-flex items-center rounded-md bg-dark-blue px-6 py-3 text-sm font-semibold text-white shadow-sm transition-colors duration-200 hover:bg-black focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-dark-blue"
 				>
 					Contact Business Team
