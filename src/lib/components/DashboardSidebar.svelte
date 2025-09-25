@@ -115,7 +115,9 @@
 >
 	<!-- Sidebar Header -->
 	<div class="flex h-16 items-center justify-between border-b border-gray-200 px-6">
-		<a href="/" class="text-xl font-bold text-black">GEO POC</a>
+		<a href="/" class="text-xl font-bold text-black">
+			<img src="/images/GEON_Hitam.png" alt="GEON POC Logo" class="h-8 w-auto" />
+		</a>
 		<!-- Close button for mobile -->
 		<button
 			on:click={toggleMobileMenu}

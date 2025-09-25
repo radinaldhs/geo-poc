@@ -5,6 +5,7 @@
 <section class="bg-white py-16 sm:py-24 relative">
 	<div class="max-w-7xl px-4 sm:px-6 lg:px-8 mx-auto">
 		<div class="text-center">
+				<img src="/images/GEON_Hitam.png" alt="GEON POC Logo" class="inline h-30 w-auto mb-1" />
 			<h1 class="text-4xl font-bold tracking-tight text-black sm:text-6xl">
 				Optimize Your Website for
 				<span class="text-light-blue">AI Search Results</span>

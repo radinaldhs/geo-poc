@@ -13,7 +13,7 @@
 </script>
 
 <svelte:head>
-	<title>GEO POC - AI Search Optimization Platform</title>
+	<title>GEON POC - AI Search Optimization Platform</title>
 	<meta
 		name="description"
 		content="Optimize your website for AI-powered search results. Analyze performance across ChatGPT, Claude, Gemini, and other major AI platforms."
@@ -22,7 +22,7 @@
 		name="keywords"
 		content="AI search optimization, ChatGPT SEO, AI platforms, website analysis, search engine optimization"
 	/>
-	<meta property="og:title" content="GEO POC - AI Search Optimization Platform" />
+	<meta property="og:title" content="GEON POC - AI Search Optimization Platform" />
 	<meta
 		property="og:description"
 		content="Optimize your website for AI-powered search results. Get actionable insights to improve your visibility in AI search platforms."
@@ -35,7 +35,9 @@
 	<div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
 		<div class="flex h-16 items-center justify-between">
 			<div class="flex items-center">
-				<a href="/" class="text-xl font-bold text-black">GEO POC</a>
+				<a href="/" class="text-xl font-bold text-black">
+					<img src="/images/GEON_Hitam.png" alt="GEON POC Logo" class="h-8 w-auto" />
+				</a>
 			</div>
 			<div class="flex items-center space-x-4">
 				<a
@@ -83,7 +85,7 @@
 					Dashboard
 				</a>
 				<span class="text-gray-400">|</span>
-				<span>© 2026 <a href="https://radinal.com">radinal.com</a></span>
+				<span>© 2026 </span>
 			</div>
 			<p class="text-xs text-gray-500">
 				This is a demonstration application for proof-of-concept purposes.
