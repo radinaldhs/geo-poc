@@ -398,7 +398,7 @@
 							<span>© 2024 GEO POC</span>
 						</div>
 						<p class="text-xs text-gray-500">
-							This is a demonstration application for proof-of-concept purposes.
+							This is a demonstration application for proof-of-concept purposes. Made by Radinal
 						</p>
 					</div>
 				</footer>
