@@ -88,7 +88,7 @@
 				<span>© 2026 </span>
 			</div>
 			<p class="text-xs text-gray-500">
-				This is a demonstration application for proof-of-concept purposes.
+				This is a demonstration application for proof-of-concept purposes. Made by Radinal
 			</p>
 		</div>
 	</div>
